@@ -16,7 +16,7 @@ export function Summary(){
       <SummuryCard>
         <header>
           <span>Saída</span>
-          <ArrowCircleDown  size={24} color="#AB222E"/>
+          <ArrowCircleDown  size={24} color="#F75A68"/>
         </header>
 
         <strong>R$ 17.400,00</strong>
