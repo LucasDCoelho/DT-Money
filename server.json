@@ -1,6 +1,5 @@
 {
-  "transactions": 
-  [
+  "transactions": [
     {
       "id": 1,
       "description": "Desenvolvimento de Site",
@@ -16,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-09-06T20:55:37.443Z"
+    },
+    {
+      "description": "Desenvolvimento Mobile",
+      "type": "income",
+      "category": "Venda",
+      "price": 20000,
+      "createdAt": "2023-09-15T19:30:50.557Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "type": "income",
+      "category": "Alimentação",
+      "price": 5,
+      "createdAt": "2023-09-15T19:31:08.677Z",
+      "id": 4
     }
   ]
 }
